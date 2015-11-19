@@ -52,7 +52,7 @@ Now let your `FragmentStatePagerAdapter` or `FragmentPagerAdapter` implement `ID
 			}
 		}
 
-Be aware that neither `DrawablePagerTabStrip` nor `DrawablePagerTitleStrip` will cache the `Drawable`s, so you better take care of that yourself. See [PalettesPagerAdapter.java]{https://github.com/dmfs/color-picker/blob/master/src/org/dmfs/android/colorpicker/PalettesPagerAdapter.java} for an example.
+Be aware that neither `DrawablePagerTabStrip` nor `DrawablePagerTitleStrip` will cache the `Drawable`s, so you better take care of that yourself. See [PalettesPagerAdapter.java](https://github.com/dmfs/color-picker/blob/master/src/org/dmfs/android/colorpicker/PalettesPagerAdapter.java) for an example.
 
 
 ## TODO
